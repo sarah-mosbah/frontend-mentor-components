@@ -1,0 +1,33 @@
+body {
+  background-color: #d6e2f0;
+  font-family: 'Outfit', sans-serif;
+}
+.container {
+    max-width: 375px;
+    background-color: white;
+    margin: auto;
+    border-radius: 10px;
+    padding-bottom: 2rem;
+    margin-bottom: 1rem;
+}
+.container__box {
+    padding: 1rem;
+}
+.container__text {
+    margin-top: 2rem;
+    text-align: center;
+}
+.title {
+    font-weight: 700;
+}
+.subtitle {
+    margin-top: 1.5rem;
+    font-weight: 400;
+    color: #a9a7a7;
+}
+img {
+    height: 100%; 
+    width: 100%; 
+    object-fit: contain;
+    border-radius: 10px;
+}
